@@ -1,0 +1,12 @@
+citHeader("To cite rgplates in publications, use the following citation:")
+
+bibentry(bibtype = "misc",
+  title        = "via: Virtual Arrays for R",
+  author       = c(as.person("Ádám T. Kocsis")),
+  url          = "",
+  year		= 2023,
+
+  textVersion  =
+  paste("Kocsis, Á.T. 2023",
+        "via: Virtual Arrays for R. ")
+)
